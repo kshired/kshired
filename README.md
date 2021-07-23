@@ -14,9 +14,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=python4)](https://solved.ac/python4)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shiroed1211)](https://solved.ac/shiroed1211)
-
 
 ### Experiences
 
