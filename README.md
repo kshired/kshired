@@ -33,5 +33,6 @@
 
 
 ### Sites
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kshired)](https://velog.io/@kshired) 
-</div>
+- **My Latest Post at Velog**
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kshired&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=kshired)
