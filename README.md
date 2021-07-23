@@ -3,7 +3,7 @@
 - 👀 &nbsp;&nbsp;I'm interested in web backend  
 
 ### Technical Stack
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=EXPRESS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NginX-009639?style=flat-square&logo=NginX&logoColor=white"/> <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=EXPRESS&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NginX-009639?style=flat-square&logo=NginX&logoColor=white"/> <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"/>
 
 
 ### My Stats
