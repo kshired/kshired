@@ -17,8 +17,8 @@
 ### Experiences
 
 - Sogang University 4th Hackerthon, Best Presentation Award ( 2018.07 )
-- Teaching Assistant of Python for beginners at Sogang University ( 2018.08 ~ 2018.12 )
-- Python Mentor for begginers at [SGCC](http://sgcc.me) ( 2018.03 ~ 2019.11 )
+- Python Teaching Assistant at Sogang Univ (COR1009)  ( 2018.08 ~ 2018.12 )
+- Python Mentor for beginners at [SGCC](http://sgcc.me) ( 2018.03 ~ 2019.11 )
 - K-SW Square Purdue University Program ( 2019.06 ~ 2019.08 )
 - ROK MND Online Hackerthon, Award of MND's Minister ( 2020.12 )
 - Web Developing hands on learning session Instructor at [Elice](https://elicetrack.oopy.io/) ( 2021.07 ~ 2021.08 ) 
