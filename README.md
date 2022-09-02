@@ -1,8 +1,4 @@
-![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshired&show_icons=true&theme=radical)
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=python4)](https://solved.ac/python4)
+![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshired&show_icons=true&theme=dark)
 
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=kshired)](https://velog.io/@kshired)
 
